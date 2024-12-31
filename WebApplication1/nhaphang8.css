@@ -1,0 +1,140 @@
+﻿body {
+}
+/* Cài đặt màu nền cho toàn bộ trang */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #47476d;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ecf0f1; /* Màu chữ sáng */
+}
+
+/* Tiêu đề */
+h1 {
+    text-align: center;
+    color: #3498db; /* Màu xanh dương sáng */
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+/* Menu navigation */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #3498db;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Form nhập sản phẩm */
+div {
+    margin-bottom: 30px;
+}
+
+/* Các label trong form */
+label {
+    color: #4c6a91;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Các input trong form */
+input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-color: #007bff;
+    border-radius: 5px;
+    background-color: #ffffff00;
+    font-size: 16px;
+    color: #2d7aff;
+}
+
+/* Nút thêm */
+input[type="submit"], .btnThem {
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db  ; /* Màu nền nút */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover, .btnThem:hover {
+    background-color: #2980b9; /* Màu tối hơn khi hover */
+}
+
+/* Hiển thị danh sách sản phẩm */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    color: white;
+}
+
+td {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Nút Xóa */
+.btnXoa {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnXoa:hover {
+    background-color: #c0392b;
+}
+
+/* Label tổng tiền */
+#Label2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #2ecc71;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Thông báo */
+#lblThongBao {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    color: #e74c3c;
+}

@@ -1,0 +1,12 @@
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Downloads\tailieu\ĐỒ ÁN 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Do An\Đồ Án 2 web\WebApplication1\bin\WebApplication1.dll.config
+D:\Do An\Đồ Án 2 web\WebApplication1\bin\WebApplication1.dll
+D:\Do An\Đồ Án 2 web\WebApplication1\bin\WebApplication1.pdb
+D:\Do An\Đồ Án 2 web\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Do An\Đồ Án 2 web\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Do An\Đồ Án 2 web\WebApplication1\obj\Debug\WebApplication1.pdb

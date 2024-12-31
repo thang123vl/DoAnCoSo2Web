@@ -1,0 +1,134 @@
+﻿body {
+}
+body {
+    font-family: Arial, sans-serif;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #47476d;
+    margin: 0; 
+    height: 100vh; 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+}
+
+.Formdangnhap {
+    width: 400px;
+    padding: 20px;
+    border: none;
+    background-color: #a6d5f900;
+    border-top: 1px rgb(50, 136, 255) solid ;
+    border-bottom: 1px rgb(50, 136, 255) solid ;
+
+}
+
+.Formdangnhap div {
+    margin-bottom: 15px;
+}
+
+.inputtk,
+.inputmk {
+    width: 100%;
+    padding: 10px;
+    background-color: #47476d;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #2d7aff;
+    font-size: 12px;
+    border-color: #007bff;
+}
+
+.inputtk:hover,
+.inputmk:hover {
+    border-color: #007bff;
+    outline: none;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.formtk label,
+.formmk label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+    color: #333;
+}
+
+.h3{
+    font-size: 13px;
+    color: #4c6a91;
+    text-align: center;
+}
+.formdkdn
+{
+    text-align: center;
+    
+}
+.bttdk{
+
+    color: #4A628A;
+    background-color: #ffffff00;
+    border: none;
+    font-size: 12px;
+
+
+}
+
+.bttdk:hover{
+    transition: 0.5s;
+    background-color: #6ff70000 ;
+    border-bottom: 1px#007bff solid;
+    border-radius: 7px;
+}
+.h1 {
+    text-align: center;
+    color: #2d7aff;
+    font-size: 29px;
+
+}
+
+a{
+
+    text-decoration: none;
+    color:#4A628A;
+}
+
+.showp{
+    
+    font-size: 12px;
+    
+}
+
+.forget {
+    text-align: center;
+    font-size: small;
+}
+.forget:hover {
+    transition: 0.5s;
+    border-bottom: 1px #007bff solid;
+    border-radius: 7px;
+}
+
+.banner {
+    background-color: #4CAF50; /* Màu nền của banner */
+    color: white; /* Màu chữ */
+    text-align: center; /* Căn giữa nội dung */
+    padding: 20px; /* Khoảng cách bên trong */
+
+    border-radius: 8px; /* Bo tròn các góc của banner */
+}
+
+.banner h1 {
+    margin: 0; /* Bỏ khoảng cách mặc định của tiêu đề */
+    font-size: 2.5em; /* Kích thước chữ cho tiêu đề */
+}
+
+.banner p {
+    margin: 10px 0 0; /* Khoảng cách cho đoạn văn */
+    font-size: 1.2em; /* Kích thước chữ cho đoạn văn */
+}
